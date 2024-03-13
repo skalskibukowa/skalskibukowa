@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <div align="center">
   <img height="250" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
