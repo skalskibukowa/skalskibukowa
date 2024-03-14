@@ -30,7 +30,6 @@
 <br>- 📫 How to reach me bartosz.markiewicz01@gmail.com
 <br></p>
 <p>I am a self-taught developer.
-<br> My adventure started during my studies, in my spare time I was starting code in HTML, CSS3 and SQL</p>
 
 
 ###
