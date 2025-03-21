@@ -26,7 +26,7 @@
 
 <p align="left">I'm Bartosz Markiewicz from Poland, Cracow and I am big fan of the data📊 📈 📉<br>
 <br>- 🔭 I’m working as Data Engineer / BI developer 
-<br>- 📚 I'm currently mastering Spark technology, JAVA Springboot, SCALA 
+<br>- 📚 I'm currently mastering Databricks, Synapse, Azure cloud, Snowflake 
 <br>- 📫 How to reach me bartosz.markiewicz01@gmail.com
 <br></p>
 <p>I am a self-taught developer.
